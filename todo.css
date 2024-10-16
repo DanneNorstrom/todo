@@ -1,0 +1,9 @@
+#output{
+width: 75px;
+text-align: center;
+}	
+
+.mystyle {
+text-decoration: line-through;
+background-color: rgb(255, 0, 0)
+}
